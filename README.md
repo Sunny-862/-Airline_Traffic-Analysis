@@ -25,6 +25,12 @@ This project applies **Python-based data analysis and visualization techniques**
 
 ---
 
+## 🔄 Project Workflow
+
+Raw Dataset → Data Cleaning → Data Preprocessing → Exploratory Data Analysis → Visualization → Trend Analysis → Business Insights
+
+---
+
 ## 🎯 Objectives
 
 The major objectives of this project are:

@@ -196,5 +196,8 @@ By uncovering trends across **time, airlines, and airport operations**, this ana
 
 ## 📬 Connect With Me
 
- **Sunny Kadam**  
-📧 Email: sunnykadam872@gmail.com  
+- **Sunny Kadam**  
+
+- Email: sunnykadam872@gmail.com  
+
+- LinkedIn: www.linkedin.com/in/sunny-862  

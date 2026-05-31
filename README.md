@@ -1,12 +1,6 @@
-<h1 align="center"> Air Traffic Performance & Trend Analysis</h1>
+# Air Traffic Performance & Trend Analysis
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-black?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-EDA-green?style=for-the-badge" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![EDA](https://img.shields.io/badge/-EDA-008080?style=flat)
 
 ---
 
